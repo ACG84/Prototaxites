@@ -32,6 +32,12 @@ chemically distinct from extinct and extant Fungi."
   from the public 3D reconstructions, bulk C/N, and a sulfate band that may already be sitting
   unexamined in acquired spectra.
 
+- [`analysis/network-topology-results.md`](analysis/network-topology-results.md) — First quantitative
+  analysis of the public 3D medullary-spot model. The network is pervasively reticulate (~1,245 large
+  circuits, 9,404 three-way junctions), but an earlier intermediate result was a voxelisation artifact,
+  and the finding turns out to be taxonomically uninformative because foraging fungal mycelia are
+  reticulate too. Code in [`network-analysis/`](network-analysis/).
+
 ## Standing question
 
 Loron et al. reach "previously undescribed lineage" by elimination across the three supergroups that
