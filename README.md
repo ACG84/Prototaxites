@@ -18,6 +18,10 @@ chemically distinct from extinct and extant Fungi."
   require a glycoprotein wall? Withdraws the chitin argument, tests whether any foraminiferan lacking
   glycoprotein structures could serve as an analogue, and finds the ones that do lack it are
   mineralised.
+- [`analysis/allogromiid-hypothesis.md`](analysis/allogromiid-hypothesis.md) — H3′: the
+  allogromiid-grade version, which sheds the agglutination, stercomare, habitat and mineral-phase
+  objections and is the strongest form of the hypothesis. Fails because the non-mineralised character
+  that makes it attractive is what makes it >60% protein.
 - [`analysis/data-availability.md`](analysis/data-availability.md) — Audit of what data already
   exists. The 2026 feature matrix and pipeline are public; the amoeba control is recomputed from them
   (and is n = 3); the key foraminiferal FTIR study exists in print only; xenophyophore wall chemistry
