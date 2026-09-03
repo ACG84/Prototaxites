@@ -42,6 +42,11 @@ chemically distinct from extinct and extant Fungi."
   tyrosine-rich cross-linked structural protein, rather than a polyphenol, explain the "lignin-like"
   signature? It would explain the anomalous H-type monomer dominance, it would materially help H3′, and
   the technique that settles it — pyrolysis GC-MS — has never been applied to *Prototaxites*.
+- [`analysis/simulation.md`](analysis/simulation.md) — Two simulations run, not recommended. A
+  synthetic tree control validates the topology measurement (trees yield 0.33–1.06 large circuits per
+  unit, reticulate networks 2.86–3.36, *P. taiti* 5.65) and confirms total β₁ is an artifact. A
+  transport calculation shows bulk streaming services 8 m in ~2 hours, removing an objection to the
+  syncytium hypothesis.
 - [`analysis/where-this-stands.md`](analysis/where-this-stands.md) — Synthesis. Why every line of
   evidence so far is exclusionary rather than placing, why the chemistry's positive side may be a
   functional signal rather than a phylogenetic one, the status of each hypothesis, and a list of the
