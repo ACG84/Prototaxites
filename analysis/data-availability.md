@@ -71,6 +71,64 @@ Amide I separates cleanly, and two features overlap at their tails on a sample o
 wanting to lean on this control should say n = 3 out loud.** Strengthening it — more amoeba
 specimens from the same thin sections — is cheap and would be worth doing before any rhizarian work.
 
+### 1.2 Reproducing their classifier — the chitin argument holds, with two caveats
+
+The point that carries Loron et al.'s anti-fungal case is that the sugar–protein signature **is present
+in the 24 co-occurring Rhynie fungi**, preserved through the same silicification. Its absence in
+*P. taiti* is therefore biological, not taphonomic. Reproducing this from the published matrix:
+
+**Prototaxites (n=12) vs Fungi (n=24)**
+
+| Test | Accuracy | Baseline |
+|---|---|---|
+| Their 30% holdout (my reproduction, no SMOTE) | 0.818 (9/11) | 0.667 |
+| **Repeated stratified 5-fold × 20** | **0.907 ± 0.097** | **0.667** |
+
+Their reported 91% reproduces under proper repeated cross-validation. **The signal is real**, and 24
+points above the majority-class baseline.
+
+**Caveat 1 — no single band carries it.** Classifying on one feature at a time:
+
+| Feature alone | Accuracy | (baseline 0.667) |
+|---|---|---|
+| Amide I | 0.672 ± 0.067 | at baseline |
+| Amide II | 0.668 ± 0.059 | at baseline |
+| N-products | 0.668 ± 0.059 | at baseline |
+
+Every feature also **overlaps univariately** between the two groups. On Amide II, 4 of 24 fungi fall
+below the *Prototaxites* median; on N-products, 8 of 24 do. Amide I is the tightest — 0 of 24 fungi
+below the *Prototaxites* median — but alone it classifies at chance.
+
+So "lack of chitin" is not a visible missing band. It is a **multivariate pattern** across six
+correlated features, which is a weaker and more model-dependent claim than "the chitin peak is absent,"
+though still a real one.
+
+**Caveat 2 — *Prototaxites* barely separates from plants.**
+
+| Comparison | Repeated CV accuracy | Baseline | Margin |
+|---|---|---|---|
+| vs Fungi | 0.907 ± 0.097 | 0.667 | **+0.24** |
+| vs Plant | 0.800 ± 0.099 | 0.755 | **+0.045** |
+| vs Amoeba | 0.997 ± 0.033 | 0.800 | n = 3, not interpretable |
+
+Against plants the classifier is barely above the majority-class baseline, and single features sit
+*exactly* at it. Chemically, *P. taiti* is **plant-adjacent** — consistent with Loron et al.'s own CCA,
+where *P. taiti* and plants sit together in opposition to the sugar–protein group.
+
+**What this means for the debate.** It supports the anti-fungal conclusion and, by the same token,
+argues against *any* affinity in the sugar–protein cluster — which contains Fungi, arthropods,
+oomycetes **and the amoeba**. A glycoprotein-walled rhizarian belongs in that cluster. The single
+chemical result that best survives scrutiny is the one that most damages H3′.
+
+It also sharpens the alternative worth taking seriously: the position nearest *Prototaxites* in this
+chemical space is occupied by plants, which is where the **nematophyte** reading points
+([`other-evidence.md`](other-evidence.md)).
+
+Reproduction code: `sklearn`, matrix from the analysis repo; method per their `SVM_smote.py`
+(PCA n=5 → SVM RBF, LOOCV grid search over C ∈ {0.1,1,10,100}, γ ∈ {0.001,0.01,0.1,1}).
+
+---
+
 ---
 
 ## 2. The key foraminiferal study is freely downloadable — correcting an earlier note
