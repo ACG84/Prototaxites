@@ -38,6 +38,11 @@ chemically distinct from extinct and extant Fungi."
   and the finding turns out to be taxonomically uninformative because foraging fungal mycelia are
   reticulate too. Code in [`network-analysis/`](network-analysis/).
 
+- [`analysis/where-this-stands.md`](analysis/where-this-stands.md) — Synthesis. Why every line of
+  evidence so far is exclusionary rather than placing, why the chemistry's positive side may be a
+  functional signal rather than a phylogenetic one, the status of each hypothesis, and a list of the
+  corrections made along the way.
+
 ## Standing question
 
 Loron et al. reach "previously undescribed lineage" by elimination across the three supergroups that

@@ -120,9 +120,9 @@ argues against *any* affinity in the sugar–protein cluster — which contains 
 oomycetes **and the amoeba**. A glycoprotein-walled rhizarian belongs in that cluster. The single
 chemical result that best survives scrutiny is the one that most damages H3′.
 
-It also sharpens the alternative worth taking seriously: the position nearest *Prototaxites* in this
-chemical space is occupied by plants, which is where the **nematophyte** reading points
-([`other-evidence.md`](other-evidence.md)).
+On the positive side of the result — *Prototaxites* sitting nearest plants — see
+[`where-this-stands.md`](where-this-stands.md) §2. Reading that as a "nematophyte affinity" is
+circular, and a functional explanation may account for it without any phylogenetic signal at all.
 
 Reproduction code: `sklearn`, matrix from the analysis repo; method per their `SVM_smote.py`
 (PCA n=5 → SVM RBF, LOOCV grid search over C ∈ {0.1,1,10,100}, γ ∈ {0.001,0.01,0.1,1}).
