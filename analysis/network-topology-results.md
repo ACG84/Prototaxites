@@ -115,16 +115,46 @@ networks with high loop density. Hyphal fusion is a normal, well-documented fung
 network with thousands of closed circuits and ~9,400 three-way junctions is **entirely compatible with
 Fungi**.
 
-That has two consequences:
+That has two consequences — but the first needs stating carefully, because an earlier draft of this
+file overstated it.
 
-1. **It weakens Loron et al.'s argument, not the fungal hypothesis.** They used medullary-spot
-   branching — "three dimensional and highly complex," with "no discernible branching hierarchy" — as
-   a structural argument against Fungi. Foraging mycelial networks look like this. The character does
-   not do the work they ask of it.
+1. **It removes one subsidiary structural argument from Loron et al. It does not undercut their
+   anti-fungal case.** That case rests on several independent legs, and the branching argument is
+   neither the primary one nor close to it:
+
+   | Leg | Strength |
+   |---|---|
+   | **Chemical** — no sugar–protein recondensation products, no polysaccharide band ensemble; SVM 91% vs Fungi, 93% vs all chitinous specimens, MCC 0.85 | **Primary.** Quantitative, statistically validated, taphonomically controlled by same-thin-section comparison |
+   | **Biomarker** — perylene absent in *P. taiti*, present in the substrate | Independent; targets Ascomycota specifically |
+   | Structural — banded tubes with annular thickenings | Genuinely without fungal parallel |
+   | Structural — medullary-spot branching | **Weak, and weakened further here** |
+   | Developmental — no photobionts | Targets the lichen hypothesis |
+
+   The chemical leg stands entirely on its own. Losing the branching argument costs the paper a
+   supporting observation, not its conclusion.
+
+   What *does* survive as a specific criticism is narrower and worth keeping: Loron et al. compare
+   medullary-spot branching against **hyphal differentiation in fungal fruiting bodies**. That is the
+   wrong fungal comparator for a vegetative network. Foraging mycelial cords — the apt comparison —
+   are exactly what this analysis shows *P. taiti* to resemble topologically. So the sub-argument is
+   weak because of comparator choice, and a fungal network comparator (§6) would settle it.
+
 2. **It gives the rhizarian hypothesis nothing.** The observation that originally motivated this whole
    line — non-hierarchical anastomosis as a granuloreticulosan signature — is convergent across fungi,
    myxomycetes, algae and rhizarians. Confirming it quantitatively confirms something taxonomically
    uninformative.
+
+**And the asymmetry matters.** The chemical evidence that carries Loron et al.'s anti-fungal case is
+the same evidence class that runs hardest against H3′. If anything it presses harder there: a fungal
+wall is chitin plus β-glucan plus glycoprotein, while an allogromiid test is **>60% protein**. Treating
+the FTIR result as strong — which it is, relative to the morphology — strengthens the argument against
+a foraminiferal affinity at least as much as against a fungal one.
+
+Two honest qualifications on that strength: the discriminator is sugar–protein products generally
+rather than chitin specifically, and the taphonomically matched protist control rests on **n = 3**,
+with only Amide I cleanly separated (see [`data-availability.md`](data-availability.md) §1.1). Strong,
+not airtight. Vajda et al. also read the spectroscopy as *supporting* a fungal affinity, which Loron
+et al. rebut as resting on aliphatic C–H signatures alone.
 
 This is what makes network architecture a **poor phylogenetic character but a useful similarity
 search**. It cannot establish affinity. Once affinity is constrained by other evidence, quantitative
