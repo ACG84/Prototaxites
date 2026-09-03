@@ -27,6 +27,11 @@ chemically distinct from extinct and extant Fungi."
   (and is n = 3); the key foraminiferal FTIR study exists in print only; xenophyophore wall chemistry
   is genuinely uncollected.
 
+- [`analysis/other-evidence.md`](analysis/other-evidence.md) — Eleven independent lines beyond FTIR
+  chemistry, ordered by how much can be done with data that already exists. Top three: network topology
+  from the public 3D reconstructions, bulk C/N, and a sulfate band that may already be sitting
+  unexamined in acquired spectra.
+
 ## Standing question
 
 Loron et al. reach "previously undescribed lineage" by elimination across the three supergroups that
