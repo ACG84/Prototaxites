@@ -14,6 +14,10 @@ chemically distinct from extinct and extant Fungi."
   Loron et al.'s classifier? What a taphonomically valid control requires, the one that already exists
   in their published dataset, the Devonian foraminiferal linings that could serve as a direct test,
   and the thermal-maturity trap that would produce a false positive.
+- [`analysis/foram-wall-chemistry.md`](analysis/foram-wall-chemistry.md) — Do foraminifera actually
+  require a glycoprotein wall? Withdraws the chitin argument, tests whether any foraminiferan lacking
+  glycoprotein structures could serve as an analogue, and finds the ones that do lack it are
+  mineralised.
 
 ## Standing question
 

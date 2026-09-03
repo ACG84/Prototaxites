@@ -174,10 +174,10 @@ broader than that, and this is the single most damaging piece of existing eviden
 > show them. Nor does it show the polysaccharide band ensemble at 1200–800 cm⁻¹.
 
 That is not a chitin-specific test. It is a test for **any glycoprotein or mucopolysaccharide wall** —
-and that is exactly what foraminiferal organic linings are. Py-GC-MS work on foraminiferal linings
-finds protein plus polysaccharide bound in a complex macromolecule, with **chitin derivatives**
-present across taxa. A foraminiferan wall run through Loron et al.'s SVM would very likely be
-classified with the chitinous group, not with *Prototaxites*.
+and that is exactly what foraminiferal organic linings are. (Chitin itself is *not* a safe claim for
+Foraminifera; see [`foram-wall-chemistry.md`](foram-wall-chemistry.md). But the discriminating element
+is nitrogen, and infrared work on the monothalamid *Astrammina rara* returns glycoproteinaceous,
+collagen-like material — which registers on that axis at least as strongly as chitin would.)
 
 There is one intriguing crumb on the other side: the same pyrolysis work reports **traces of guaiacols
 and syringols** — lignin markers — in foraminiferal linings, and Loron et al. describe *Prototaxites*
