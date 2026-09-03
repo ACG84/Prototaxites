@@ -10,6 +10,10 @@ chemically distinct from extinct and extant Fungi."
   more broadly Foraminifera, affinity fit the *Prototaxites taiti* data? Character-by-character
   assessment, the falsifiers, four diagnostic tests that would settle it, and the one part of the
   argument that survives.
+- [`analysis/control-experiment.md`](analysis/control-experiment.md) — Can a rhizarian be run through
+  Loron et al.'s classifier? What a taphonomically valid control requires, the one that already exists
+  in their published dataset, the Devonian foraminiferal linings that could serve as a direct test,
+  and the thermal-maturity trap that would produce a false positive.
 
 ## Standing question
 

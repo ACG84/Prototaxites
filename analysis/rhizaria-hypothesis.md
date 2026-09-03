@@ -11,7 +11,7 @@ An assessment of the hypothesis against Loron et al. (2026), *Science Advances* 
 |---|---|
 | **H1** — *Prototaxites* is a crown xenophyophore | **Falsified.** Fails on at least five independent characters, three of them diagnostic-by-definition for the group. |
 | **H2** — *Prototaxites* is a stem-xenophyophore | **Vacuous.** Surviving the H1 falsifiers requires stripping every character that defines Xenophyophorea. What remains is H3. |
-| **H3** — *Prototaxites* is a giant terrestrial foraminiferan (monothalamid grade) | **Not falsified, but not supported.** Survives the environmental and body-size objections that kill H1. Fails on wall chemistry, septation, and biomechanics. Currently weaker than the fungal hypotheses it would replace. |
+| **H3** — *Prototaxites* is a giant terrestrial foraminiferan (monothalamid grade) | **Substantially weakened.** Survives the environmental and body-size objections that kill H1, but a taphonomically matched protist control already exists in the authors' dataset and *Prototaxites* separates from it on the sugar–protein axis. See [`control-experiment.md`](control-experiment.md). |
 | **H4** — *Prototaxites* was a **giant syncytium** rather than a complexly multicellular organism | **Live, and underexplored.** This is the part of the idea worth keeping. It is a real gap in Loron et al.'s positive argument, independent of whether the organism was a rhizarian. |
 
 The short version: the specific rhizarian identification does not survive contact with the data,
@@ -209,10 +209,13 @@ faithfully. Any deliberately incorporated, size-sorted foreign particles — gra
 other microfossils — set into tube walls would be immediately visible in thin section. Their reported
 absence is already strong; a targeted survey would make it decisive.
 
-**3. Run the SVM against a rhizarian.** The comparative set was 102 samples from six Rhynie organisms —
-plants, fungi, arthropods, oomycetes and others. **No rhizarian comparator exists in the analysis.**
-ATR-FTIR of foraminiferal organic linings, monothalamid tests and xenophyophore granellare sheaths,
-projected into the same canonical space, is the direct test of H3 and it is a tractable experiment.
+**3. Run the SVM against a rhizarian.** Partly answered already — and not in the hypothesis's favour.
+The 102 comparative samples include **Amoebae (n = 3)**: the Rhynie testate amoeba *Palaeoleptochlamys
+hassii*, a protist with an organic, non-agglutinated test, preserved in the same chert. It plots with
+the sugar–protein group, not with *Prototaxites*. A true rhizarian comparator is still wanted, and
+Early Devonian monothalamid organic linings exist — but they are thermally overmature and would give a
+spurious result if run naively. Full design, sourcing and failure modes in
+[`control-experiment.md`](control-experiment.md).
 
 **4. Ultrastructure of the septal pores.** Type 1 tubes carry 75% of the body volume and are septate
 with pores. Pore architecture is phylogenetically informative in fungi (simple pore, dolipore,
@@ -300,7 +303,9 @@ The broadened version — Foraminifera generally — is meaningfully harder to k
 freshwater monothalamids exist (*Edaphoallogromia australica*, *Reticulomyxa filosa*,
 *Haplomyxa saranae*), because crown Foraminifera are old enough (~770 Ma) for a Devonian branch, and
 because the non-hierarchical anastomosing branching is a genuine positive. It still fails on wall
-chemistry, on septation, and on the biomechanics of a rigid self-supporting body.
+chemistry, on septation, and on the biomechanics of a rigid self-supporting body — and the wall
+chemistry failure is now harder to explain away, because a protist organic test from the same chert
+*does* retain the sugar–protein signature that *Prototaxites* lacks.
 
 What is worth pursuing is not the identification but the grade-of-organisation argument in §7. The
 paper never asked whether *Prototaxites* was a single cell, and its central conclusion depends on the
