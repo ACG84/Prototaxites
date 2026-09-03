@@ -80,6 +80,61 @@ more than any previous move in this sequence achieved.
 
 ---
 
+## 3b. The parsimony argument, and why it is stronger than "not excluded"
+
+The decisive consideration is not spectroscopic but **biosynthetic**, and it favours the protein reading
+substantially.
+
+**What a polyphenolic wall costs.** Lignin and lignin-like polymers come from the phenylpropanoid
+pathway: shikimate → phenylalanine → **PAL** → cinnamate → *p*-coumarate → C4H, 4CL, CCR, CAD →
+monolignols → laccase/peroxidase polymerisation. That is an eight-plus enzyme pathway, and it is
+characteristic of vascular plants. Evolving it *de novo* in a rhizarian — or in any lineage that did not
+already have it — is a large, coordinated innovation.
+
+**What a phenolic protein costs.** Enrich an existing structural protein in tyrosine, and oxidise. The
+cross-linking is catalysed by **peroxidase, laccase or tyrosinase** — ordinary oxidative enzymes,
+distributed across eukaryotes — and oxidative coupling between tyrosyl side chains occurs naturally.
+The result is di-tyrosine and oligo-tyrosine cross-links.
+
+This is the standard convergent solution to "make a tough insoluble structure," arrived at
+independently in mussel byssus (DOPA-rich), insect sclerotin, plant extensins and the sea-urchin
+fertilisation envelope. The change required is a shift in amino acid composition plus oxidative
+cross-linking — not a new metabolic pathway.
+
+**So the two hypotheses are not equally costly.** Under the polyphenol reading, an allogromiid-grade
+ancestor must discard its protein–polysaccharide wall entirely and invent a novel structural polymer
+class. Under the phenolic-protein reading, it keeps the wall it has, enriches it in tyrosine, and
+cross-links it.
+
+### And this is not merely permissive — it discriminates
+
+The obvious objection is that easy-to-evolve chemistry helps every candidate equally, so it removes an
+objection to H3′ without supporting it. That is *mostly* right, but not entirely, because the
+compositional gap that remains differs by candidate:
+
+| Ancestral wall | To reach a phenolic-protein wall, must lose | Size of step |
+|---|---|---|
+| **Allogromiid**: >60% protein, ~13% sugars | ~13% sugars; cross-link existing protein | **Small** |
+| **Fungal**: chitin + β-glucan + glycoprotein | Its entire polysaccharide structural framework | **Large** |
+
+Sugars are more labile than cross-linked protein, so an allogromiid needs to lose the smaller and more
+losable component. A fungus would have to abandon chitin and β-glucan, which are its structural
+mainstay.
+
+So under the phenolic-protein reading the sugar-absence observation — the robust part of Loron et al.'s
+chemistry — **still discriminates, and it discriminates less against an allogromiid than against a
+fungus.** That is a real differential advantage, not just a removed obstacle.
+
+### What it costs Loron et al.
+
+Their positive claim suffers more than their negative one. "An extinct polyphenolic structural
+biomacromolecule" and the inference to a previously undescribed lineage both lean on the wall polymer
+being genuinely novel. If it was a tyrosine-cross-linked protein, the material is neither novel nor
+lineage-diagnostic — many eukaryotes make such things — and the chemistry stops constraining affinity
+except through the sugar absence.
+
+---
+
 ## 4. What it has to survive: the amide deficit
 
 The hard problem. A protein carries a backbone amide per residue, and *P. taiti* has the weakest amide
@@ -104,6 +159,24 @@ behave differently from ordinary cellular protein — but that is now a third au
 
 One point in its favour: *P. taiti* is **not** devoid of N-products (0.1333 mean), and 8 of the 24
 fungi fall *below* its median on that feature. The nitrogen signal is low, not absent.
+
+**But the closest available proxy runs hard the other way.** *Palaeoleptochlamys hassii* is a
+proteinaceous, non-agglutinated, non-chitinous **protist test** preserved in the same chert — the best
+existing analogue for "protein-walled protist through Rhynie diagenesis." It has the **highest mean
+Amide II of any group in the dataset (0.1796)**, against *P. taiti*'s 0.0170. A tenfold gap between the
+fossil and the nearest thing to what the hypothesis proposes.
+
+Does sclerotisation rescue it? The hypothesis needs cross-linked protein to behave differently from
+ordinary protein during diagenesis. The one sclerotised material in the dataset is **arthropod
+cuticle** — and it has the *highest median* Amide II (0.2654). That looks fatal, but it is confounded:
+arthropod cuticle is chitin plus protein, and chitin's N-acetyl groups contribute amide I and II
+independently of any protein. So the arthropod amide signal may be chitin-dominated and is not a clean
+test.
+
+**Net: no clean test of the escape route exists in the dataset.** A non-chitinous sclerotised protein
+in the same chert would settle it, and there isn't one. The route is not closed, but it is not
+supported either — and the proteinaceous protist that *is* there sits at the opposite extreme from
+*P. taiti*.
 
 ---
 
