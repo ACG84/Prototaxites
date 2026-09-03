@@ -73,34 +73,78 @@ specimens from the same thin sections — is cheap and would be worth doing befo
 
 ---
 
-## 2. The most relevant foraminiferal dataset already exists — in print only
+## 2. The key foraminiferal study is freely downloadable — correcting an earlier note
 
-**Allen K, Roberts S, Murray JW (2000).** "Analysis of organic components in the test wall of
-agglutinated foraminifera by Fourier transform infrared and pyrolysis gas chromatography/mass
-spectrometry." In: Hart MB, Kaminski MA, Smart CW (eds), *Proceedings of the Fifth International
-Workshop on Agglutinated Foraminifera* (Plymouth, September 1997), **Grzybowski Foundation Special
-Publication 7**.
+An earlier version of this file said Allen et al. (2000) was print-only. **That was wrong.** The
+Grzybowski Foundation hosts the IWAF-5 proceedings as open PDFs, and the paper is at:
 
-This is as close to a direct hit as the literature offers: **FTIR and Py-GC-MS of the organic
-components of agglutinated foraminiferal test walls**, including the monothalamid astrorhizid
-***Astrammina rara***. Same technique class as Loron et al.
+**https://gf.tmsoc.org/Documents/IWAF-5/Allen+Roberts+Murray-IWAF5-1997.pdf**
 
-Its companion paper — Allen, Roberts & Murray (1999), *J. Micropalaeontol.* 18:183–191, which **is**
-free at Copernicus — points to it explicitly: *"A detailed description of the organic component
-analysis is given in Allen et al. (in press)."* The 1999 paper covers the mineral phases (α-quartz,
-clays, anatase in *Ammobaculites balkwilli*) by EDS, micro-laser Raman and FTIR, on material from
-Swanwick and Warsash, Southampton.
+> Allen K, Roberts S, Murray JW (2000). Analysis of organic components in the test wall of
+> agglutinated foraminifera by Fourier Transform Infrared and Pyrolysis Gas Chromatography/Mass
+> Spectrometry. In: Hart MB, Kaminski MA, Smart CW (eds), *Proceedings of the Fifth International
+> Workshop on Agglutinated Foraminifera*, Grzybowski Foundation Special Publication **7**, 1–13.
 
-**Status:** not freely downloadable. Grzybowski Foundation Special Publications circulate as print
-volumes and scattered institutional PDFs (several SP7 chapters are on UCL Discovery). Obtaining it is
-an interlibrary-loan problem, not a research problem.
+### What it contains
 
-**Caveat before getting excited:** 25-year-old published spectra are figures, not archived numeric
-data, and the six band intensities Loron et al. use would have to be re-derived — possibly not
-possible from printed plots. Its real value is qualitative: it already establishes the answer
-(glycoproteinaceous, collagen-like) for the exact grade at issue.
+**Specimens** — organic linings *and* tests, isolated:
 
----
+| Taxon | Grade |
+|---|---|
+| ***Astrammina rara*** Rhumbler | **Monothalamid** astrorhizid, "the giant Antarctic foraminifera" |
+| *Jadammina macrescens* (Brady) | Agglutinated marsh |
+| *Trochammina inflata* Montagu | Agglutinated marsh |
+| *Ammonia beccarii* (Linné) | Calcareous — lining only |
+
+**Reference standards: chitin and collagen** (Sigma), run alongside. This is the crucial design
+feature — it lets the foraminiferal material be placed against both candidate biopolymers directly.
+
+**Techniques:** FT-IR over 4000–450 cm⁻¹ with Fourier self-deconvolution for protein secondary
+structure, plus Py-GC/MS.
+
+### Findings
+
+> "Results from FT-IR and Py-GC/MS analysis of the organic materials in agglutinated foraminifera
+> tests have highlighted the presence of protein and carbohydrate components, thus supporting earlier
+> suggestions that the cement and lining material is **glycoproteinaceous**... the main part of the
+> organic material exists as a **proteinaceous component, containing only minor amounts of
+> carbohydrate**."
+
+- FT-IR spectra and Py-GC/MS products were "strikingly" similar to **collagen**.
+- Amide I secondary structure differs by taxon: ***A. rara* absorbs strongly at 1635 cm⁻¹** (β-sheet),
+  while *J. macrescens* and *T. inflata* peak at **1652 cm⁻¹** (α-helix). Chitin reference sits at
+  1660 and 1626 cm⁻¹.
+- Protein pyrolysis products throughout: pyrrole (proline/hydroxyproline), toluene and styrene
+  (phenylalanine), indole and methylindoles (tryptophan), phenols (tyrosine), and a **proline–proline
+  2,5-diketopiperazine identified from *A. rara***.
+- Carbohydrate indicators (furans: 2,3-dihydrobenzofuran, 2,4-dimethylfuran) present but **weak** —
+  "the levels of carbohydrate moieties within the general structure are low."
+- Long-chain hydrocarbons in all pyrograms indicate lipid. DeLaca (1986) put lipid at ~19% of *A. rara*
+  shell composition, later questioned as pseudopodial contamination (Bowser & Bernhard 1993).
+
+### An interpretive caution worth carrying forward
+
+The paper flags something directly relevant to reading *Prototaxites*:
+
+> "the observation of abundant phenol and methyl phenols **may not be specific for tyrosine** since
+> these products may also originate from a **non-proteinaceous phenolic biopolymer**"
+
+Phenolic pyrolysis products are ambiguous between protein and a phenolic biopolymer. Anyone arguing
+from phenolic signal alone — in either direction — needs to say which.
+
+### The limitation
+
+**The bands Loron et al. use are all present** — amide I/II at 1660–1550, CH₂ at 2853/2925, CH₃ at
+2873/2956, C=O at 1740/1750, polysaccharide C–O–C at 1000–1200. But the paper reports **band positions
+and assignments plus spectra as figures**; Table 1 is secondary-structure assignments and Table 2a/b
+are pyrolysis product lists. **No numeric absorbance intensities are tabulated.**
+
+So the six normalised intensities cannot be computed directly from the published values. Options:
+digitise the figures (lossy, but the amide bands are large and well separated), or approach the authors
+— Stephen Roberts remains at Southampton — for original spectra, which after 25 years may not survive.
+
+**What it does settle, without any of that:** the qualitative answer for the monothalamid grade, with
+chitin and collagen as controls. Glycoproteinaceous, collagen-like, protein-dominated.
 
 ## 3. The 2023 comparative spectra — the only raw deposit
 
@@ -155,9 +199,10 @@ needed to find low-thermal-maturity Devonian assemblages (the binding constraint
 | 2026 analysis pipeline | **Yes, public** | same |
 | 2026 raw FTIR spectra | No separate deposit | "main text or Supplementary Materials" |
 | Taphonomically matched protist control | **Yes, n = 3** | in the matrix above; raw at 10.7488/ds/3806 |
-| FTIR/Py-GC-MS of monothalamid foram wall | **Yes — but print only** | Allen et al. 2000, Grzybowski SP7 |
+| FTIR/Py-GC-MS of monothalamid foram wall | **Yes — free PDF** (qualitative only, no numeric intensities) | [Allen et al. 2000](https://gf.tmsoc.org/Documents/IWAF-5/Allen+Roberts+Murray-IWAF5-1997.pdf) |
 | Devonian foram lining occurrences | **Yes** | Bell & Winchester-Seeto 1999; ForamL |
 | Devonian linings with *low* thermal maturity | Not identified | needs a targeted search via ForamL |
+| FTIR of a *truly organic-walled* allogromiid (*Allogromia*) | **No** | not run by anyone; culturable material |
 | Xenophyophore granellare wall chemistry | **No** | uncollected; specimens available |
 | Physical Rhynie material for new FTIR | **Yes** | Lyon Collection (Aberdeen), NMS |
 
@@ -173,7 +218,9 @@ argument against a protist affinity or exposes it as resting on three samples.
 - Loron CC et al. (2026). *Sci. Adv.* 12(4):eaec6277. Code: https://github.com/nrodgers1/Prototaxites-Analysis-code
   · Zenodo doi:10.5281/zenodo.17632257 · Open-access text: https://aura.abdn.ac.uk/
 - Loron CC et al. (2023). *Nat. Commun.* 14:1387. Raw spectra: Edinburgh DataShare doi:10.7488/ds/3806
-- Allen K, Roberts S, Murray JW (2000). Grzybowski Foundation Special Publication 7.
+- Allen K, Roberts S, Murray JW (2000). Grzybowski Foundation Special Publication 7, 1–13.
+  **Free PDF:** https://gf.tmsoc.org/Documents/IWAF-5/Allen+Roberts+Murray-IWAF5-1997.pdf
+  (Whole IWAF-5 volume: https://gf.tmsoc.org/Documents/IWAF-5/)
 - Allen K, Roberts S, Murray JW (1999). *J. Micropalaeontol.* 18:183–191.
   https://jm.copernicus.org/articles/18/183/1999/jm-18-183-1999.pdf
 - Godos K, Tyszka J, Radmacher W, Goleń J (2021). ForamL v1.2. Mendeley Data doi:10.17632/xw7w5ns649.3

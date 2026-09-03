@@ -137,6 +137,30 @@ most interesting possible outcome, so the experiment is worth running either way
 
 ---
 
+## 5b. What has already been measured — and the gap that remains
+
+Allen, Roberts & Murray (2000) already ran FT-IR **and** Py-GC/MS on isolated organic linings and
+tests of ***Astrammina rara*** — a monothalamid — with **chitin and collagen as reference standards**,
+and the paper is [freely downloadable](https://gf.tmsoc.org/Documents/IWAF-5/Allen+Roberts+Murray-IWAF5-1997.pdf).
+Their result: glycoproteinaceous, collagen-like, "protein... containing only minor amounts of
+carbohydrate." *A. rara*'s amide I sits at **1635 cm⁻¹** (β-sheet), and a proline–proline
+diketopiperazine was recovered from its pyrolysate.
+
+**But note precisely what has and has not been done.** *A. rara* is monothalamid and *agglutinated*
+(astrorhizid). **No FT-IR exists for a truly organic-walled allogromiid** — *Allogromia* itself has
+never been run. So the exact taxon H3′ proposes remains unmeasured spectroscopically.
+
+That gap is small and it is closable: *Allogromia laticollaris* is a standard laboratory organism. It
+is also the gap least likely to surprise, since the agglutinated monothalamid, the calcareous lining,
+and the reconstructed ancestral condition all give the same answer.
+
+One caution the paper supplies, worth carrying into any *Prototaxites* argument: abundant phenols in a
+pyrolysate "may not be specific for tyrosine since these products may also originate from a
+non-proteinaceous phenolic biopolymer." Phenolic signal alone does not distinguish protein from
+polyphenol.
+
+---
+
 ## 6. Verdict
 
 **H3′ (allogromiid grade) is the strongest form of the hypothesis and still fails.** It is upgraded
