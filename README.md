@@ -51,6 +51,10 @@ chemically distinct from extinct and extant Fungi."
   Nothing in Rhizaria, but dinosporin has four distinct spectrochemical groups, some sporopollenin-like
   and one melanin-bearing — refuting "a protist can't evolve a plant-like resistant wall." Nitrogen,
   however, is present in all of them.
+- [`analysis/deep-sea-monothalamid-chemistry.md`](analysis/deep-sea-monothalamid-chemistry.md) — Does
+  any exist? No. Confirmed by search: mineralogy, ultrastructure and phylogeny only. The nearest taxon
+  is *Astrammina rara* (Antarctic, shallow), whose cross-linking turns out to be disulfide rather than
+  di-tyrosine.
 - [`analysis/simulation.md`](analysis/simulation.md) — Two simulations run, not recommended. A
   synthetic tree control validates the topology measurement (trees yield 0.33–1.06 large circuits per
   unit, reticulate networks 2.86–3.36, *P. taiti* 5.65) and confirms total β₁ is an artifact. A
