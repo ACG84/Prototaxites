@@ -98,6 +98,21 @@ chemically distinct from extinct and extant Fungi."
   functional signal rather than a phylogenetic one, the status of each hypothesis, and a list of the
   corrections made along the way.
 
+- [`spectral-library/`](spectral-library/) — **A reference FTIR library, extracted.** Parser for
+  Spectragryph `.sgdr` databases; 363 Kimmel Center spectra and 882 RRUFF mineral spectra recovered
+  and validated against literature band positions. Corrects a parser bug that had wrecked 94 records
+  and shifted the rest ~17 cm⁻¹. Contains what no other library does: a maturation series of
+  plant-derived organic matter running modern wood → copal → Miocene/Eocene/Cretaceous amber →
+  **Jurassic jet** → Carboniferous coal → anthracite. Fossil collagen >50,000 BP still shows amide I
+  at 1651 and amide II at 1545, unshifted from fresh.
+- [`analysis/endmember-fitting.md`](analysis/endmember-fitting.md) — **The spectral fit, run, and why
+  it fails.** Fitting the Rhynie spectra as mixtures of reference endmembers returns the same answer —
+  clay + coal + chert, or clay + lignin — for arthropod cuticle, fungal hyphae, cyanobacteria, amoeba
+  tests, plant axes and *Prototaxites* alike. Chitin never ranks better than 5th of 24 for a
+  *chitinous* fossil. Two consequences: the lignin-like signature is generic to Rhynie organic matter
+  rather than specific to *Prototaxites*, and absence of a chitin match is not evidence of absence of
+  chitin.
+
 ## Standing question
 
 Loron et al. reach "previously undescribed lineage" by elimination across the three supergroups that
