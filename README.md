@@ -61,6 +61,10 @@ chemically distinct from extinct and extant Fungi."
   definitively not about *Prototaxites*; and Loron et al. state that melanin-type material "would be
   hidden by the stronger general kerogen signal" — a declared blind spot covering the aromatic-protein
   hypothesis.
+- [`analysis/raw-spectra-analysis.md`](analysis/raw-spectra-analysis.md) — **The raw 102-spectrum
+  dataset.** *Prototaxites* resolves no amide I peak at 1650 cm⁻¹, while the amoeba, fungi and
+  arthropods each do. A discrete qualitative difference, and the hardest evidence yet against an
+  aromatic-protein wall.
 - [`analysis/dinocyst-data-analysis.md`](analysis/dinocyst-data-analysis.md) — The 219-spectrum
   dinocyst dataset, analysed. Its eumelanin standard peaks at 1570 cm⁻¹ — a tyrosine-derived aromatic
   polymer absorbs strongly exactly where *P. taiti* is weakest.
