@@ -47,6 +47,10 @@ chemically distinct from extinct and extant Fungi."
   *P. taiti* on aliphatics almost exactly (0.25 SD) and differs almost purely on nitrogen — and Amide II
   falls twice as hard as Amide I, which is the signature of N–H modification rather than protein
   absence.
+- [`analysis/existing-analogues.md`](analysis/existing-analogues.md) — Hunting a positive analogue.
+  Nothing in Rhizaria, but dinosporin has four distinct spectrochemical groups, some sporopollenin-like
+  and one melanin-bearing — refuting "a protist can't evolve a plant-like resistant wall." Nitrogen,
+  however, is present in all of them.
 - [`analysis/simulation.md`](analysis/simulation.md) — Two simulations run, not recommended. A
   synthetic tree control validates the topology measurement (trees yield 0.33–1.06 large circuits per
   unit, reticulate networks 2.86–3.36, *P. taiti* 5.65) and confirms total β₁ is an artifact. A
