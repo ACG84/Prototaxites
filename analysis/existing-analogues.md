@@ -168,6 +168,60 @@ next to *Prototaxites*.
 
 ---
 
+## 5b. How much the dinocyst result is actually worth
+
+Not as much as its size suggests, and the limits are worth stating explicitly.
+
+**Dinoflagellates are not foraminifera.** Alveolata and Rhizaria are separated by on the order of a
+billion years. Wall chemistry is not conserved across that distance in any way that licenses inference
+from one to the other. The dinocyst survey answers the question "does *any* characterised protist wall
+look like *P. taiti*?" — and the answer is no — but it is not evidence about what a foraminiferan could
+do.
+
+**And the foraminiferal sampling underneath the chemical objection is very thin.** Counting the taxa
+with any actual organic-wall chemistry:
+
+*Allogromia laticollaris*, *Astrammina rara*, *Jadammina macrescens*, *Trochammina inflata*,
+*Ammonia beccarii*, *Rosalina floridana*, *Calcarina*, *Cycloclypeus*, *Amphistegina lobifera*,
+*Chilostomella* — plus *Gromia* as an outgroup.
+
+That is **roughly ten taxa out of ~9,000–10,000 living species: about 0.1%.**
+
+Worse, the sample is biased away from everything relevant. There is **no** chemical characterisation of:
+
+- **deep-sea monothalamids** — the clades where molecular work finds the highest cryptic diversity
+- **xenophyophore granellare** — zero, as established earlier
+- **freshwater and soil monothalamids** — *Edaphoallogromia*, *Reticulomyxa*, *Haplomyxa*
+- **any giant foraminiferan** — the size class the hypothesis actually concerns
+
+So the defensible sentence is **"every foraminiferal organic wall anyone has measured is
+glycoproteinaceous,"** not "foraminiferal organic walls are glycoproteinaceous." Those differ
+substantially in strength, and this repository has been using the stronger one.
+
+### What survives the correction
+
+One thing, and it needs the right axis. **Foraminiferal chemical diversity is enormous in
+*mineralisation* and conservative in *organic matrix*.**
+
+| Axis | Diversity |
+|---|---|
+| Hard-part chemistry | Organic; agglutinated with organic, calcareous, siliceous or ferruginous cement; porcelaneous high-Mg calcite; hyaline perforate calcite; **opaline silica**; composite calcite + opal |
+| Organic matrix chemistry | Protein + polysaccharide, in every measured case |
+
+The diversity argument is true and applies to the first row. The chemical objection to H3′ concerns the
+second. And while ten taxa is 0.1% of the clade, they are not a random ten — they span the
+organic-walled monothalamid, agglutinated and calcareous grades, and were measured by IR, pyrolysis
+GC-MS and proteomics independently.
+
+That is better than 0.1% sounds, and still far from settled — because the unmeasured taxa are precisely
+the deep-sea, giant, and non-marine ones the hypothesis depends on.
+
+**Net calibration:** the chemical objection to a foraminiferal affinity should be held less firmly than
+this repository has been holding it. It is not weakened by dinosporin, which was never about forams. It
+is weakened by the fact that nobody has looked at the relevant taxa.
+
+---
+
 ## 6. Verdict
 
 **No existing analogue matches, and the dinocyst check makes that specific rather than general.**
