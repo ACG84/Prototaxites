@@ -65,6 +65,11 @@ chemically distinct from extinct and extant Fungi."
   dataset.** *Prototaxites* resolves no amide I peak at 1650 cm⁻¹, while the amoeba, fungi and
   arthropods each do. A discrete qualitative difference, and the hardest evidence yet against an
   aromatic-protein wall.
+- [`analysis/feature-validation.md`](analysis/feature-validation.md) — **Do the six features track
+  composition?** Tested against tissues of known chemistry using the authors' own feature values. None
+  of the four nitrogen-named features separates N-bearing from N-free tissue; two run backwards. Cutin
+  scores 16× higher on Amide II than chitinous fungal hyphae, and those hyphae are indistinguishable
+  from *Prototaxites* body tubes on that feature.
 - [`analysis/amide-crosscheck.md`](analysis/amide-crosscheck.md) — **Cross-checking amide I against
   tissues of known composition.** It appears in N-free cutin, peaks in a *decayed* plant axis, and is
   scarce in chitinous spores — so it is not a protein marker in this material. Withdraws the preceding
