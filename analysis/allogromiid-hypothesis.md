@@ -87,8 +87,11 @@ The deeper mismatch is functional. An allogromiid test is a **container** the ce
 *Prototaxites*, the wall **is** the organism — 1–2 µm walls forming 100% of the preserved body, a
 structural skeleton rather than an envelope.
 
-**And size runs the wrong way.** Organic-walled allogromiids are typically tens to hundreds of
-micrometres (one undescribed species measured 30–60 µm). The one genuinely giant monothalamid,
+**And size runs the wrong way — though less badly than first stated.** Organic-walled allogromiids
+span **<50 µm to a centimetre or more** in length (corrected; see
+[`deep-sea-monothalamid-chemistry.md`](deep-sea-monothalamid-chemistry.md) §2c — an earlier version of
+this file said "tens to hundreds of micrometres," which understated the range). The gap to *P. taiti*'s
+5.6 cm is therefore roughly 5×, not orders of magnitude. The one genuinely giant monothalamid,
 ***Spiculosiphon oceana*** at >4 cm, reaches that size by agglutinating siliceous sponge spicules in
 organic cement. That is the pattern across the group: **in monothalamids, size comes with
 agglutination.** No organic-walled monothalamid approaches even *P. taiti*'s 5.6 cm, let alone

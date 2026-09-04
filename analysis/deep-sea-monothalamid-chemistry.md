@@ -60,6 +60,62 @@ it is the only direct evidence on the question, and it points the other way.
 
 ---
 
+## 2b. The broader organic-walled grade: what exists
+
+Widening from deep-sea taxa to organic-walled ("tectinous") foraminifera generally changes the picture
+in two ways.
+
+### There is older chemistry, and it is histochemical rather than spectroscopic
+
+Hedley-era histochemistry on organic-walled forms used the Feulgen reaction (azure-A-Schiff), periodic
+acid–Schiff, and naphthol yellow S to stain nuclei, polysaccharide and protein respectively. It
+established a **protein and acid mucopolysaccharide** shell — and something more interesting than a
+bulk composition:
+
+> "a **three-layered test, with protein on the outside, polysaccharide on the inside**, and a
+> Feulgen-positive layer in the middle"
+
+So the organic test is **compositionally zoned**, not homogeneous. That matters for interpreting any
+spectroscopic measurement: an ATR-FTIR spot samples a depth of a few micrometres and would weight the
+outer, protein-rich layer. It also raises an obvious question nobody has asked — whether the zonation
+varies enough between taxa to move the amide signal.
+
+### There is real documented variation — but in ultrastructure, not composition
+
+From comparative ultrastructural work on allogromiids:
+
+> monothalamids "share a generally **fibrous ultrastructure** of the organic test or lining," but
+> "significant differences in **layering, orientation of the fibrous fine structure, and the presence
+> of electron-opaque outer layers** distinguish them," and simple organic walls "vary in their
+> **mechanical and optical properties**."
+
+That is genuine diversity across the organic-walled grade. It is architectural and mechanical, and it
+has never been paired with compositional spectroscopy. *Cribrothalammina alba*, for instance, has a
+finely fibrous inner organic lining beneath an agglutinated layer.
+
+**Net: the broader organic-walled grade adds histochemistry (protein + acid mucopolysaccharide,
+zoned) and ultrastructural variation, but no new spectroscopy.** Allen et al. (2000) remains the only
+IR/pyrolysis work touching this grade.
+
+---
+
+## 2c. Correction: allogromiid size
+
+[`allogromiid-hypothesis.md`](allogromiid-hypothesis.md) §3 states that organic-walled allogromiids are
+"typically tens to hundreds of micrometres," citing an undescribed 30–60 µm species, and uses size as
+an objection to H3′. **That understates the range.**
+
+Organic-walled allogromiids "vary from **<50 micrometres to a centimetre or more** in length," and are
+morphologically diverse — spherical, oval, sausage-shaped and thread-like, with one aperture
+(*Allogromia*) or two terminal apertures (*Nemogullmia*, *Thiogullmia*).
+
+So the gap to *P. taiti*'s 5.6 cm is roughly **5×**, not the two-to-three orders of magnitude implied.
+That is a materially weaker objection than stated, and the size argument against H3′ should be
+downgraded accordingly. It still holds against *P. loganii* at 8 m, and the morphological objections
+(single chamber, container rather than skeleton, no tube systems or septa) are untouched.
+
+---
+
 ## 3. Effect on the sampling argument
 
 The count in [`existing-analogues.md`](existing-analogues.md) §5b does not improve. *A. rara* was
