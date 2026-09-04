@@ -113,6 +113,18 @@ chemically distinct from extinct and extant Fungi."
   rather than specific to *Prototaxites*, and absence of a chitin match is not evidence of absence of
   chitin.
 
+- [`matched-preservation/`](matched-preservation/) + [`analysis/matched-preservation.md`](analysis/matched-preservation.md) —
+  **Taphonomically matched references, found and used.** Loron et al.'s 2023 Edinburgh DataShare
+  deposit contains **four spectra of pure Rhynie chert** — the blank this project had been asking for.
+  Every fossil spectrum is r = 0.97 with blank chert (mean r² = 0.948), and *Prototaxites* is not
+  anomalous (p = 0.22). Subtracting one blank from another reproduces every band recovered from the
+  fossils — 1370, 1428, 1463, 1540, 1607 — at amplitudes spanning the fossil group means, so
+  matrix-corrected band positions in 1350–1800 cm⁻¹ are uninterpretable; Igisu et al. place quartz
+  overtones at 1684, 1610, 1525 and 1492, under amide I, the aromatic band and amide II. What
+  survives the controls: the *Prototaxites*/Fungi discriminant is uncorrelated with matrix fraction
+  (ρ = −0.08) and strongly correlated with aliphatic C–H (ρ = −0.46, p = 0.005), with *Prototaxites*
+  at half the fungal C–H (p = 0.006). The difference is real; "aliphatic-poor" is not "chitin-free".
+
 ## Standing question
 
 Loron et al. reach "previously undescribed lineage" by elimination across the three supergroups that
