@@ -101,6 +101,11 @@ doi:10.1111/jpy.13382.** Open copy at https://archimer.ifremer.fr/doc/00851/9625
 > presence of **amide absorption bands in all spectra from the ATR dataset**."
 
 **Groups 2–4 are basic dinosporin *plus* an added component. They are additions, not replacements.**
+
+> **Caveat added after obtaining their Table S2:** the "amide in all spectra" claim is the authors'
+> interpretation and I could not reproduce it from their own data for the transparent and aliphatic
+> groups, which show only polysaccharide bands in my windows. Their Table 1 band positions were not
+> recoverable from the PDF. See [`dinocyst-data-analysis.md`](dinocyst-data-analysis.md).
 Even the aromatic group retains the amide-bearing, polysaccharide backbone underneath.
 
 That settles the question, and the architecture is the point:
