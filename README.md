@@ -55,6 +55,12 @@ chemically distinct from extinct and extant Fungi."
   any exist? No. Confirmed by search: mineralogy, ultrastructure and phylogeny only. The nearest taxon
   is *Astrammina rara* (Antarctic, shallow), whose cross-linking turns out to be disulfide rather than
   di-tyrosine.
+- [`analysis/abbott-1998-read.md`](analysis/abbott-1998-read.md) — Having read Abbott 1998, Holman
+  2024 and the Loron main text: the 1998 pyrolysis was run at Ro 0.77–1.03% where it cannot
+  discriminate, so its lack of nitrogen products is uninformative; the H-type lignin result is
+  definitively not about *Prototaxites*; and Loron et al. state that melanin-type material "would be
+  hidden by the stronger general kerogen signal" — a declared blind spot covering the aromatic-protein
+  hypothesis.
 - [`analysis/literature-sweep.md`](analysis/literature-sweep.md) — Deeper sweep. Two corrections:
   pyrolysis GC-MS, FTIR and ¹³C NMR were all run on *Prototaxites* by Abbott et al. in 1998, and the
   H-type lignin monomer dominance describes bulk Rhynie chert (Holman et al. 2024), not the fossil.
