@@ -72,6 +72,58 @@ Melanin does not rescue this either — melanin is itself nitrogen-containing (i
 
 ---
 
+## 2b. Checking the dinocyst dataset directly
+
+Retrieved and read: **Meyvisch P, Mertens K, Gurdebeke PR, Sandt C, Pospelova V, Vrielinck H,
+Borondics F, Louwye S (2023). "Does dinocyst wall composition really reflect trophic affinity? New
+evidence from ATR micro-FTIR spectroscopy measurements." *Journal of Phycology* 59(5):1064–1084,
+doi:10.1111/jpy.13382.** Open copy at https://archimer.ifremer.fr/doc/00851/96259/106781.pdf
+
+211 cysts, 10 families, 24 genera, 50 species, 17 localities, ATR micro-FTIR over 4000–600 cm⁻¹.
+
+### The four groups
+
+| Group | Taxa | Chemistry |
+|---|---|---|
+| **1 — basic dinosporin** | Transparent gonyaulacaleans (*Impagidinium*, *Lingulodinium*, *Operculodinium*, *Spiniferites*…) | Cellulose-like backbone (CLB) + weak carbonyl |
+| **2 — coloured** | Peridinialeans + gymnodinialeans | CLB + **secondary amines** from pigment, matched to a *Sepia* **eumelanin** standard |
+| **3 — aromatic** | ***Trinovantedinium applanatum* only** | CLB + **aromatic rings**; "similarities with **sporopollenin**" |
+| **4 — aliphatic** | *Fusiperidinium wisconsinense*, *Peridinium limbatum* (freshwater) | CLB + prominent **aliphatic** bands; similar to **algaenan** |
+
+### The decisive finding
+
+> "some specific molecular components appear **ubiquitous in all specimens**: there is proof for
+> hydrogen (hydroxyl) bonding, **amide groups**... and **β-1,4-linked polysaccharides**... suggesting
+> that the backbone of dinosporin is a heavily cross-linked, **N-containing, cellulose-like
+> macromolecule**."
+
+> "N is present in the cyst walls of both auto- and heterotrophic dinoflagellates... apparent from the
+> presence of **amide absorption bands in all spectra from the ATR dataset**."
+
+**Groups 2–4 are basic dinosporin *plus* an added component. They are additions, not replacements.**
+Even the aromatic group retains the amide-bearing, polysaccharide backbone underneath.
+
+That settles the question, and the architecture is the point:
+
+| | Backbone | Decoration |
+|---|---|---|
+| **Aromatic dinocyst** (*T. applanatum*) | N-bearing, β-1,4-polysaccharide | aromatic rings |
+| ***P. taiti*** | **absent — no amide ensemble, no 1200–800 cm⁻¹ polysaccharide bands** | aromatic + aliphatic |
+
+The one aromatic protist wall known to science **adds** aromatics on top of exactly the two components
+*P. taiti* lacks. *P. taiti* has the decoration without the backbone. Group 4 is the wrong direction
+too — *P. taiti* is aliphatic-*poor*. And Group 2's route to aromatics is eumelanin, which carries its
+own nitrogen.
+
+### Data access
+
+The spectra are in **Supporting Information Table S2** (metadata Table S3), not a public repository.
+Obtainable from the journal, but the band definitions differ from Loron et al.'s table S1, so
+projecting into their six-feature space would require re-deriving intensities from the raw spectra
+rather than reusing published values.
+
+---
+
 ## 3. The closest chemical match is a land-plant polymer
 
 Loron et al. describe the *P. taiti* macerate as containing "short/branched aliphatic moieties,
@@ -118,9 +170,12 @@ next to *Prototaxites*.
 
 ## 6. Verdict
 
-**No existing analogue matches.** Nothing in Rhizaria comes close; dinosporin, the best protist
-candidate, is N-bearing and carbohydrate-based in all four of its chemical variants; and the closest
-compositional match to *P. taiti* is sporopollenin, a land-plant polymer.
+**No existing analogue matches, and the dinocyst check makes that specific rather than general.**
+Nothing in Rhizaria comes close. Dinosporin — the best protist candidate, now checked directly across
+211 cysts and 50 species — carries amide bands and β-1,4-polysaccharide bands in **every spectrum**,
+including the aromatic and algaenan-like groups. The single known aromatic protist wall builds
+aromatics *onto* that backbone; *P. taiti* has aromatics *instead of* it. The closest compositional
+match to *P. taiti* remains sporopollenin, a land-plant polymer.
 
 **But the search materially improves the hypothesis's position on one point.** "A protist could not
 evolve a novel, plant-like resistant wall polymer" is refuted — dinoflagellates did exactly that, with
