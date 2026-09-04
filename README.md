@@ -65,6 +65,10 @@ chemically distinct from extinct and extant Fungi."
   dataset.** *Prototaxites* resolves no amide I peak at 1650 cm⁻¹, while the amoeba, fungi and
   arthropods each do. A discrete qualitative difference, and the hardest evidence yet against an
   aromatic-protein wall.
+- [`analysis/what-structure.md`](analysis/what-structure.md) — What structure explains a missing
+  amide I? Softens the previous claim (it is a tendency, not an absence), then works through the
+  candidates. Raises DHN-melanin — the nitrogen-free polyketide fungal melanin, chemically distinct
+  from the tyrosine-derived eumelanin everyone has been discussing.
 - [`analysis/dinocyst-data-analysis.md`](analysis/dinocyst-data-analysis.md) — The 219-spectrum
   dinocyst dataset, analysed. Its eumelanin standard peaks at 1570 cm⁻¹ — a tyrosine-derived aromatic
   polymer absorbs strongly exactly where *P. taiti* is weakest.

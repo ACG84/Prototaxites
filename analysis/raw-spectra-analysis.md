@@ -25,6 +25,11 @@ to silica. Their processed D-sheets sensibly start at 1450 cm⁻¹.
 
 ## The result: *Prototaxites* has no resolved amide I peak
 
+> **Corrected in [`what-structure.md`](what-structure.md) §1.** Second-derivative analysis shows this
+> is a *quantitative tendency*, not a categorical absence: 4/12 *Prototaxites* spectra do carry a
+> 1638–1668 cm⁻¹ component, against 62–67% for the proteinaceous groups. The group-mean statement below
+> holds; the "discrete presence/absence" framing does not.
+
 Local maxima in 1500–1750 cm⁻¹, from the processed group-mean spectra:
 
 | Group | Peaks (cm⁻¹, height) |
