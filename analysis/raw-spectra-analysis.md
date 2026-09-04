@@ -24,6 +24,11 @@ to silica. Their processed D-sheets sensibly start at 1450 cm⁻¹.
 ---
 
 ## The result: *Prototaxites* has no resolved amide I peak
+> **Further corrected in [`amide-crosscheck.md`](amide-crosscheck.md).** Tissue-level cross-checking
+> shows the 1650 component appears in N-free plant cuticle, peaks in a *decayed* axis, and is scarce in
+> chitinous fungal spores. It does not behave as a protein marker in this material, so the inference
+> from its absence to absent protein is withdrawn.
+
 
 > **Corrected in [`what-structure.md`](what-structure.md) §1.** Second-derivative analysis shows this
 > is a *quantitative tendency*, not a categorical absence: 4/12 *Prototaxites* spectra do carry a

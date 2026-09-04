@@ -65,6 +65,11 @@ chemically distinct from extinct and extant Fungi."
   dataset.** *Prototaxites* resolves no amide I peak at 1650 cm⁻¹, while the amoeba, fungi and
   arthropods each do. A discrete qualitative difference, and the hardest evidence yet against an
   aromatic-protein wall.
+- [`analysis/amide-crosscheck.md`](analysis/amide-crosscheck.md) — **Cross-checking amide I against
+  tissues of known composition.** It appears in N-free cutin, peaks in a *decayed* plant axis, and is
+  scarce in chitinous spores — so it is not a protein marker in this material. Withdraws the preceding
+  two documents' central inference. *Prototaxites* body tubes remain the only category at 0/7, while
+  its medullary spots are 4/5.
 - [`analysis/what-structure.md`](analysis/what-structure.md) — What structure explains a missing
   amide I? Softens the previous claim (it is a tendency, not an absence), then works through the
   candidates. Raises DHN-melanin — the nitrogen-free polyketide fungal melanin, chemically distinct

@@ -48,6 +48,11 @@ candidates.
 ---
 
 ## 2. Structures that would produce this signature
+> **Premise weakened — see [`amide-crosscheck.md`](amide-crosscheck.md).** The constraint "amide I
+> weak-to-absent implies low protein" does not survive cross-checking against tissues of known
+> composition. The structural candidates below remain worth considering on other grounds, but this
+> particular constraint should not be treated as established.
+
 
 The constraint set, assembled from all sources:
 
