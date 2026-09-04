@@ -180,7 +180,17 @@ supported either — and the proteinaceous protist that *is* there sits at the o
 
 ---
 
-## 5. The decisive test has never been run
+## 5. The decisive test — **correction: it was run in 1998**
+
+> **This section was wrong.** Abbott et al. (1998) applied flash pyrolysis-GC-MS, FTIR **and** ¹³C
+> solid-state NMR to coalified *Prototaxites*, obtaining pyrolysates "dominated by aromatic
+> hydrocarbons and alkylphenols." Only *Loron et al. (2026)* ran no pyrolysis. Alkylphenols are the
+> ambiguous class, so the result does not settle the question — but the test was not unavailable, and
+> the H-type monomer evidence in §2 turns out to describe bulk Rhynie chert rather than *Prototaxites*.
+> See [`literature-sweep.md`](literature-sweep.md). The section below is retained for its test
+> rationale, which still applies to the N-heterocycle question.
+
+### Original section
 
 **Loron et al. performed no pyrolysis.** Their molecular work is ATR-FTIR, benchtop FTIR on macerates,
 synchrotron micro-FTIR, and a targeted GC-MS biomarker search for perylene. The words "pyrolysis,"
