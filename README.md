@@ -125,6 +125,18 @@ chemically distinct from extinct and extant Fungi."
   (ρ = −0.08) and strongly correlated with aliphatic C–H (ρ = −0.46, p = 0.005), with *Prototaxites*
   at half the fungal C–H (p = 0.006). The difference is real; "aliphatic-poor" is not "chitin-free".
 
+- [`provenance/`](provenance/) + [`analysis/slide-confound.md`](analysis/slide-confound.md) —
+  **Taxon and thin section are perfectly aliased.** Data S2 gives the slide for every spectrum:
+  *Prototaxites* is on G.2024.5.3, Lyon 156 UCB1 and Lyon 48 UC1; the fungi are on five other slides;
+  **the overlap is empty**, and seven of twelve *Prototaxites* spectra come from a slide that
+  contributes nothing else. Within one taxon and one tissue — 17 *Rhynia* axes — slide shifts five of
+  the six published features further than the entire *Prototaxites*–Fungi gap. Against a
+  slide-permutation null no feature gap is unusual (Amide II p = 0.30), and 4% of arbitrary
+  slide-splits match the 0.919 classification accuracy. This does not show the result is wrong; it
+  shows the dataset cannot attribute it to biology rather than provenance. Rhynie chert maturity
+  varies Ro 0.80–1.10% between blocks (Akinsanpe et al. 2024), and aliphatic C–H — the one difference
+  that survived the blank-chert controls — is the band known to be maturity-sensitive.
+
 ## Standing question
 
 Loron et al. reach "previously undescribed lineage" by elimination across the three supergroups that

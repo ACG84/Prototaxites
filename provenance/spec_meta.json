@@ -1,0 +1,410 @@
+{
+ "0": {
+  "desc": "Rhynia gwynne-vaughanii tracheids Plant p36-3 Lyon 156 UCB1",
+  "slide": "Lyon 156 UCB1"
+ },
+ "1": {
+  "desc": "Rhynia gwynne-vaughanii Plant p51-4 Agl2",
+  "slide": "Agl2"
+ },
+ "2": {
+  "desc": "Rhynia gwynne-vaughanii Plant l44 Agl2",
+  "slide": "Agl2"
+ },
+ "3": {
+  "desc": "Rhynia gwynne-vaughanii Plant s46 Agl127",
+  "slide": "Agl127"
+ },
+ "4": {
+  "desc": "Aglaophyton majus - conducting tissues Plant q36-4 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ },
+ "5": {
+  "desc": "rhizoid ensemble Plant m52 AgLyon 2019",
+  "slide": "AgLyon 2019"
+ },
+ "6": {
+  "desc": "Rhynia gwynne-vaughanii Plant o49-2 AgLyon 2019",
+  "slide": "AgLyon 2019"
+ },
+ "7": {
+  "desc": "Rhynia gwynne-vaughanii Plant p47-2 AgLyon 2019",
+  "slide": "AgLyon 2019"
+ },
+ "8": {
+  "desc": "Rhynia gwynne-vaughanii Plant p43 Agl127 2019-2",
+  "slide": "Agl127 2019-2"
+ },
+ "9": {
+  "desc": "Rhynia gwynne-vaughanii Plant n44 Agl127 2019-2",
+  "slide": "Agl127 2019-2"
+ },
+ "10": {
+  "desc": "Rhynia gwynne-vaughanii Plant o40 Agl127 2019-2",
+  "slide": "Agl127 2019-2"
+ },
+ "11": {
+  "desc": "Asteroxylon mackiei leaf Plant t23-4 Lyon 48 UC1",
+  "slide": "Lyon 48 UC1"
+ },
+ "12": {
+  "desc": "Asteroxylon mackiei leaf cuticle Plant t23 Lyon 48 UC1",
+  "slide": "Lyon 48 UC1"
+ },
+ "13": {
+  "desc": "Rhynia gwynne-vaughanii Plant l61 2892p",
+  "slide": "2892p"
+ },
+ "21": {
+  "desc": "Rhynia gwynne-vaughanii Plant l61-1 2892p",
+  "slide": "2892p"
+ },
+ "22": {
+  "desc": "Rhynia gwynne-vaughanii - cuticle Plant l61-1 2892p",
+  "slide": "2892p"
+ },
+ "14": {
+  "desc": "Rhynia gwynne-vaughanii Plant p59-1 2892p",
+  "slide": "2892p"
+ },
+ "23": {
+  "desc": "Rhynia gwynne-vaughanii Plant p59 2892p",
+  "slide": "2892p"
+ },
+ "15": {
+  "desc": "Rhynia gwynne-vaughanii Plant r58 2892p",
+  "slide": "2892p"
+ },
+ "16": {
+  "desc": "Rhynia gwysnne-vaughanii - decayed axis Plant k54 Agl2",
+  "slide": "Agl2"
+ },
+ "17": {
+  "desc": "Rhynia gwynne-vaughanii Plant o44-3 Agl2",
+  "slide": "Agl2"
+ },
+ "18": {
+  "desc": "Rhynia gwynne-vaughanii Plant c12-4 G.2024.5.5",
+  "slide": "G.2024.5.5"
+ },
+ "19": {
+  "desc": "Rhynia gwynne-vaughanii Plant d29-4 G.2024.5.5",
+  "slide": "G.2024.5.5"
+ },
+ "20": {
+  "desc": "Rhynia gwynne-vaughanii Plant o41-4 G.2024.5.5",
+  "slide": "G.2024.5.5"
+ },
+ "24": {
+  "desc": "Aglaophyton majus Plant o57 RFf 2019",
+  "slide": "RFf 2019"
+ },
+ "25": {
+  "desc": "Aglaophyton majus - conducting tissues Plant o57 RFf 2019",
+  "slide": "RFf 2019"
+ },
+ "26": {
+  "desc": "Aglaophyton majus - conducting tissues Plant q55-1 RFf 2019",
+  "slide": "RFf 2019"
+ },
+ "27": {
+  "desc": "Aglaophyton majus - cuticle Plant q59 RFf 2019",
+  "slide": "RFf 2019"
+ },
+ "28": {
+  "desc": "Aglaophyton majus - conducting tissues Plant q59 RFf 2019",
+  "slide": "RFf 2019"
+ },
+ "29": {
+  "desc": "Aglaophyton majus - cuticle Plant s57 RFf 2019",
+  "slide": "RFf 2019"
+ },
+ "30": {
+  "desc": "Asteroxylon - tracheids Plant d34-3 Lyon 48 UC1",
+  "slide": "Lyon 48 UC1"
+ },
+ "31": {
+  "desc": "Plant cells and tracheids Plant v44-1 Agl204b",
+  "slide": "Agl204b"
+ },
+ "32": {
+  "desc": "Aglaophyton majus Plant e50 Rfh",
+  "slide": "Rfh"
+ },
+ "33": {
+  "desc": "Body - large tubes Prototaxites s13 Lyon 156 UCB1",
+  "slide": "Lyon 156 UCB1"
+ },
+ "34": {
+  "desc": "Body - large tubes Prototaxites s13-1 Lyon 156 UCB1",
+  "slide": "Lyon 156 UCB1"
+ },
+ "35": {
+  "desc": "Body - large tubes Prototaxites v15 Lyon 156 UCB1",
+  "slide": "Lyon 156 UCB1"
+ },
+ "36": {
+  "desc": "Body and small medullary spot Prototaxites d13-4 G.2024.5.3",
+  "slide": "G.2024.5.3"
+ },
+ "37": {
+  "desc": "Body Prototaxites d22-1 G.2024.5.3",
+  "slide": "G.2024.5.3"
+ },
+ "38": {
+  "desc": "Medullary spot Prototaxites e11-3 G.2024.5.3",
+  "slide": "G.2024.5.3"
+ },
+ "39": {
+  "desc": "Body - large tubes Prototaxites e17-3 G.2024.5.3",
+  "slide": "G.2024.5.3"
+ },
+ "40": {
+  "desc": "Medullary spot Prototaxites e19-1 G.2024.5.3",
+  "slide": "G.2024.5.3"
+ },
+ "41": {
+  "desc": "Medullary spot Prototaxites f12-4 G.2024.5.3",
+  "slide": "G.2024.5.3"
+ },
+ "42": {
+  "desc": "Medullary spot Prototaxites j27 G.2024.5.3",
+  "slide": "G.2024.5.3"
+ },
+ "43": {
+  "desc": "Body - large tubes Prototaxites c39 Lyon 48 UC1",
+  "slide": "Lyon 48 UC1"
+ },
+ "44": {
+  "desc": "Body - small tubes Prototaxites c39-1 Lyon 48 UC1",
+  "slide": "Lyon 48 UC1"
+ },
+ "45": {
+  "desc": "Palaeomyces sp. Fungus t52-1 Agl2",
+  "slide": "Agl2"
+ },
+ "46": {
+  "desc": "Palaeomyces sp. Fungus y46-2 Agl2",
+  "slide": "Agl2"
+ },
+ "47": {
+  "desc": "glomeromycotan spores Fungus k34 Agl127",
+  "slide": "Agl127"
+ },
+ "48": {
+  "desc": "glomeromycotan spores Fungus o43-2 Rfg",
+  "slide": "Rfg"
+ },
+ "49": {
+  "desc": "glomeromycotan spores Fungus r44-2 Rfg",
+  "slide": "Rfg"
+ },
+ "50": {
+  "desc": "glomeromycotan spores Fungus x39 Rfg",
+  "slide": "Rfg"
+ },
+ "51": {
+  "desc": "Palaeomyces sp. Fungus p62-2 2892p",
+  "slide": "2892p"
+ },
+ "52": {
+  "desc": "Palaeomyces sp. Fungus s64-4 2892p",
+  "slide": "2892p"
+ },
+ "53": {
+  "desc": "Palaeomyces sp. Fungus j54 Agl2",
+  "slide": "Agl2"
+ },
+ "54": {
+  "desc": "Palaeomyces sp. Fungus j54 Agl2",
+  "slide": "Agl2"
+ },
+ "55": {
+  "desc": "Palaeomyces sp. Fungus k54 Agl2",
+  "slide": "Agl2"
+ },
+ "56": {
+  "desc": "Palaeomyces sp. Fungus l44-2 Agl2",
+  "slide": "Agl2"
+ },
+ "57": {
+  "desc": "Palaeomyces sp. Fungus l44-2 Agl2",
+  "slide": "Agl2"
+ },
+ "58": {
+  "desc": "Palaeomyces sp. Fungus m44-4 Agl2",
+  "slide": "Agl2"
+ },
+ "64": {
+  "desc": "Palaeomyces sp. Fungus m44 Agl2",
+  "slide": "Agl2"
+ },
+ "65": {
+  "desc": "Palaeomyces sp. Fungus m44 Agl2",
+  "slide": "Agl2"
+ },
+ "59": {
+  "desc": "Palaeomyces sp. Fungus p62-2 2892p",
+  "slide": "2892p"
+ },
+ "60": {
+  "desc": "Palaeomyces sp. Fungus s64-4 2892p",
+  "slide": "2892p"
+ },
+ "61": {
+  "desc": "Fungal spores Fungus e48 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ },
+ "62": {
+  "desc": "Palaeomyces sp. Fungus u12 Agl2",
+  "slide": "Agl2"
+ },
+ "63": {
+  "desc": "Palaeomyces sp. Fungus u12 Agl2",
+  "slide": "Agl2"
+ },
+ "66": {
+  "desc": "Hyphae Fungus j13 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ },
+ "67": {
+  "desc": "Hyphae Fungus k13 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ },
+ "68": {
+  "desc": "Hyphae Fungus f13 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ },
+ "69": {
+  "desc": "Rhyniosarcina devonica Cyanobacteria t49-3 2892p",
+  "slide": "2892p"
+ },
+ "70": {
+  "desc": "Rhyniosarcina devonica Cyanobacteria u50 2892p",
+  "slide": "2892p"
+ },
+ "71": {
+  "desc": "Rhyniosarcina devonica Cyanobacteria v48-2 2892p",
+  "slide": "2892p"
+ },
+ "72": {
+  "desc": "Multiseriate Stigonema-like cyanobacteria Cyanobacteria g61 Rfe",
+  "slide": "Rfe"
+ },
+ "73": {
+  "desc": "Rhyniosarcina devonica Cyanobacteria o44-4 2892p",
+  "slide": "2892p"
+ },
+ "74": {
+  "desc": "Rhyniosarcina devonica Cyanobacteria o45 2892p",
+  "slide": "2892p"
+ },
+ "75": {
+  "desc": "Rhyniosarcina devonica Cyanobacteria o53 2892p",
+  "slide": "2892p"
+ },
+ "76": {
+  "desc": "Palaeolyngbya kerpii Cyanobacteria n44-2 NMSRC9",
+  "slide": "NMSRC9"
+ },
+ "77": {
+  "desc": "Palaeolyngbya kerpii Cyanobacteria n53-1 NMSRC9",
+  "slide": "NMSRC9"
+ },
+ "78": {
+  "desc": "Palaeolyngbya kerpii Cyanobacteria n53 NMSRC9",
+  "slide": "NMSRC9"
+ },
+ "79": {
+  "desc": "arthropod fragments Arthropod o31-2 Agl127",
+  "slide": "Agl127"
+ },
+ "80": {
+  "desc": "arthropod fragments Arthropod p56 Agl127",
+  "slide": "Agl127"
+ },
+ "81": {
+  "desc": "arthropod fragments Arthropod p56 Agl127",
+  "slide": "Agl127"
+ },
+ "82": {
+  "desc": "aquatic arthropod fragments Arthropod r51 Agl127",
+  "slide": "Agl127"
+ },
+ "83": {
+  "desc": "aquatic arthropod fragments Arthropod s44-4 Agl127",
+  "slide": "Agl127"
+ },
+ "84": {
+  "desc": "arthropod fragments Arthropod x53 Agl127",
+  "slide": "Agl127"
+ },
+ "85": {
+  "desc": "arthropod fragments Arthropod k38-1 G.2024.5.5",
+  "slide": "G.2024.5.5"
+ },
+ "86": {
+  "desc": "arthropod fragments Arthropod r36-3 G.2024.5.5",
+  "slide": "G.2024.5.5"
+ },
+ "87": {
+  "desc": "arthropod fragments Arthropod r30-2 Lyon 48 UC1",
+  "slide": "Lyon 48 UC1"
+ },
+ "88": {
+  "desc": "arthropod fragments Arthropod g60 2892p",
+  "slide": "2892p"
+ },
+ "90": {
+  "desc": "arthropod fragments Arthropod g60 2892p",
+  "slide": "2892p"
+ },
+ "89": {
+  "desc": "arthropod fragments Arthropod l65 2892p",
+  "slide": "2892p"
+ },
+ "91": {
+  "desc": "Spore Plant f37 Agl127",
+  "slide": "Agl127"
+ },
+ "92": {
+  "desc": "Spore Plant f37-3 Agl127",
+  "slide": "Agl127"
+ },
+ "93": {
+  "desc": "Spore Plant n53 Agl127",
+  "slide": "Agl127"
+ },
+ "94": {
+  "desc": "Spore - possibly coprolite Plant q41 Agl127",
+  "slide": "Agl127"
+ },
+ "95": {
+  "desc": "Palaeoleptochlamys hassii Amoeba f47-3 Agl127",
+  "slide": "Agl127"
+ },
+ "96": {
+  "desc": "Palaeoleptochlamys hassii Amoeba h38-4 Agl127",
+  "slide": "Agl127"
+ },
+ "97": {
+  "desc": "Palaeoleptochlamys hassii Amoeba k49-3 Agl127",
+  "slide": "Agl127"
+ },
+ "98": {
+  "desc": "Frankbaronia polyspora Peronosporomycete r51-2 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ },
+ "99": {
+  "desc": "Frankbaronia polyspora Peronosporomycete s51-3 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ },
+ "100": {
+  "desc": "Frankbaronia polyspora Peronosporomycete s51-4 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ },
+ "101": {
+  "desc": "Frankbaronia polyspora Peronosporomycete w50-2 Agl75 2019-1",
+  "slide": "Agl75 2019-1"
+ }
+}
